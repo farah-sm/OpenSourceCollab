@@ -1,0 +1,13 @@
+  GNU nano 4.8                                       yusscript.docx                                                  #!/bin/bash
+
+read -p " please Enter your name" friends
+
+echo "How do you do,$friends?"
+read remark
+echo "I am $remark too!"
+
+read -p "What is your Age" Age
+
+echo "I'm 60 years old $friends"
+
+
